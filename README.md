@@ -43,3 +43,7 @@ Everything here is inspired by, and cross-referenced against, the real repositor
 - **.NET AI abstractions:** https://learn.microsoft.com/en-us/dotnet/ai/
 
 That repo is explicitly an **alpha / proof-of-concept** — not production ready. Treat it (and this tutorial) as a learning reference, and apply your own hardening (auth, real backends, caching) before shipping.
+
+## License
+
+This tutorial is licensed under [CC BY 4.0](LICENSE).
